@@ -1,0 +1,12 @@
+div.book {background:#ffffdd; padding:6px; margin-bottom:6px;border: 1px solid #d7d7d7;}
+div.device {background:#ffffdd; padding:6px; margin-bottom:6px;border: 1px solid #d7d7d7;}
+
+table.hch-list { border: 1px solid #e4e4e4;  border-collapse: collapse; margin-bottom: 4px; }
+table.hch-list th {  background-color:#EEEEEE; padding: 4px; white-space:nowrap; }
+table.hch-list td.icon { height: 40px; width: 40px; white-space: nowrap; padding-left: 2px; padding-right: 2px; }
+table.hch-list td.holder { height: 40px; width: 40px; white-space: nowrap; padding-left: 2px; padding-right: 20px; }
+table.hch-list td.time { height: 40px; width: 40px; white-space: nowrap; padding-left: 20px; padding-right: 20px; }
+table.hch-list tbody tr:hover { background-color:#ffffdd; }
+
+.icon-nobody { background-image: url('../images/nobody.png'); }
+.icon-down-arrow { background-image: url('../images/down_arrow.png'); }
